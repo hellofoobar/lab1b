@@ -23,7 +23,7 @@ A procedural specification tells us what a method does without telling us how th
 Does the implementation, based on your testing, satisfy the specification? If the implementation does not satisfy the spec then describe how it does not. If it does satisfy the specification then is the behaviour one that is *expected*? Are there specific problems with the specification itself? 
 
 * Add your observations to `mySqrt.txt`.
-* Create a BitBucket repository called `lab1b` and add the lab session TA as a user for that repository.
+* Create a **private** BitBucket repository called `lab1b` and add the lab session TA as a user for that repository.
 * Include only `mySqrt.txt` in the local repository, commit and push it to BitBucket.
 
 _Think about what you have learnt from this lab activity. MP0 will be released soon._
