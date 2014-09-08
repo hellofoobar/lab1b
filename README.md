@@ -24,7 +24,7 @@ Does the implementation, based on your testing, satisfy the specification? If th
 
 * Add your observations to `mySqrt.txt`.
 * Create a BitBucket repository called `lab1b` and add the lab session TA as a user for that repository.
-* Include only `msSqrt.txt` in the local repository, commit and push it to BitBucket.
+* Include only `mySqrt.txt` in the local repository, commit and push it to BitBucket.
 
 _Think about what you have learnt from this lab activity. MP0 will be released soon._
 
