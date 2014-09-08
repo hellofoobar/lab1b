@@ -2,7 +2,7 @@ Lab 1: Square Roots and Specifications
 =====
 
 For this part of the lab activity, clone this repository to your local machine. Then:
-* Add `mySqrt/MySqrt.jar` as a library to use through Eclipse;
+* Add `mySqrt/MySqrt.jar` as a library to use through Eclipse (similar to Part A);
 * Add the Javadoc path appropriately;
 * Test the `sqrt( )` method that is part of the `MySqrt` class;
 * Describe the behaviour of `MySqrt.sqrt( )` in a text file named `mySqrt.txt`.
