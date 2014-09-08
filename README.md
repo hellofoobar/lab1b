@@ -20,9 +20,9 @@ The following is a specification on `MySqrt.sqrt( )` and you should be able to s
 
 A procedural specification tells us what a method does without telling us how the method is implemented.
 
-Does the implementation, based on your testing, satisfy the specification? If it does satisfy the specification then is the behaviour one that is *expected*? If the implementation does not satisfy the spec then describe how it does not.
+Does the implementation, based on your testing, satisfy the specification? If the implementation does not satisfy the spec then describe how it does not. If it does satisfy the specification then is the behaviour one that is *expected*? Are there specific problems with the specification itself? 
 
-* Add your observations to `msSqrt.txt`.
+* Add your observations to `mySqrt.txt`.
 * Create a BitBucket repository called `lab1b` and add the lab session TA as a user for that repository.
 * Include only `msSqrt.txt` in the local repository, commit and push it to BitBucket.
 
