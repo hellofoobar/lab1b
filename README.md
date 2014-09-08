@@ -16,7 +16,7 @@ The following is a specification on `MySqrt.sqrt( )` and you should be able to s
 	 */
 	
 	public static double sqrt( double x )
-	```
+```
 
 A procedural specification tells us what a method does without telling us how the method is implemented.
 
